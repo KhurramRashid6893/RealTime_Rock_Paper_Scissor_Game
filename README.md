@@ -5,7 +5,7 @@ This project implements a real-time Rock-Paper-Scissors game using hand gestures
 ## 📁 Project Structure
 
 ```
-assets/
+RPS_Game/
 ├── config.py              # Configuration parameters
 ├── gesture.py             # Gesture classification logic
 ├── hand_tracker.py        # Hand tracking using Mediapipe
