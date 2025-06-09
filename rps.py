@@ -6,7 +6,7 @@ from PIL import Image
 from hand_tracker import HandTracker
 from gesture import GestureRecogniser
 
-class RPSGame:
+class RPSGame: 
     def __init__(self, user_name):
         self.user_name = user_name
         self.tracker = HandTracker()
