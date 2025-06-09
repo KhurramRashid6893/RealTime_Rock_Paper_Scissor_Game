@@ -11,7 +11,7 @@ RPS_Game/
 ├── hand_tracker.py        # Hand tracking using Mediapipe
 ├── rps.py                 # Main game loop and UI
 └── assets/
-    ├── rock.png           # Image representing rock
+    ├── rock.png           # Image representing rock 
     ├── paper.png          # Image representing paper
     └── scissors.png       # Image representing scissors
 ```
