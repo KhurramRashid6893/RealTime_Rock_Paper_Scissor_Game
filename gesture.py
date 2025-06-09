@@ -5,7 +5,7 @@ import time
 class GestureType(Enum):
     NONE = "none"
     DRAW = "draw"       # index + thumb pinch
-    ERASE = "erase"     # open palm 
+    ERASE = "erase"     # open palm  
     SELECT = "select"   # index pointing
     CLEAR = "clear"     # fist with thumb out 
 
