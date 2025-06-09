@@ -1,6 +1,6 @@
 import mediapipe as mp 
 import cv2
-from config import *
+from config import * 
 
 class HandTracker:
     def __init__(self):
