@@ -3,7 +3,7 @@ import random
 import time
 import numpy as np
 from PIL import Image
-from hand_tracker import HandTracker
+from hand_tracker import HandTracker 
 from gesture import GestureRecogniser
 
 class RPSGame: 
