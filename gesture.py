@@ -1,7 +1,7 @@
 from enum import Enum
 import math
 import time
-
+ 
 class GestureType(Enum):
     NONE = "none"
     DRAW = "draw"       # index + thumb pinch
