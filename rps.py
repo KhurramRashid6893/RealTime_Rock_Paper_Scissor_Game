@@ -1,4 +1,4 @@
-#importing the module
+#importing the modules
 import cv2
 import random
 import time
