@@ -1,6 +1,6 @@
 from enum import Enum
 import math
-import time
+import time 
  
 class GestureType(Enum):
     NONE = "none"
