@@ -2,7 +2,7 @@
 
 This project implements a real-time Rock-Paper-Scissors game using hand gestures and computer vision. It detects user hand gestures (Rock, Paper, or Scissors) via webcam and plays the game against a computer opponent.   
 
-## 📁 Project Structure
+## 📁 Project Structure 
 
 ```
 RPS_Game/
